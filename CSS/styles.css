@@ -75,7 +75,7 @@ hr{
   margin-top: 10% ;
   text-align: center;
   color: #354259;
-  height: 2000px;
+  height: 8200px;
 
 }
 
@@ -147,6 +147,15 @@ h5{
   font-size: 32px;
 }
 
+.h5-title{
+  text-align: left;
+  margin-left: 30px;
+}
+
+.h2-work{
+  margin-bottom: 100px;
+}
+
 .para-1{
   margin-top: 120px;
   text-align: left;
@@ -189,8 +198,12 @@ h5{
 #contact{
   height: 600px;
   background-color: white;
-  color: #2F8F9D;
+  color: #3C2C3E;
 
+}
+
+.h6-1{
+  padding-top: 120px;
 }
 
 .con-1{
